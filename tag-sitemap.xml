@@ -16,22 +16,22 @@
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/tags/Baz/</loc>
-        <lastmod>2018-07-24T14:54:54.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://theme.suka.moe/tags/Foo/</loc>
-        <lastmod>2018-07-24T23:31:06.000Z</lastmod>
+        <lastmod>2018-07-25T13:02:18.095Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://theme.suka.moe/tags/Bar/</loc>
-        <lastmod>2018-07-24T23:31:06.000Z</lastmod>
+        <lastmod>2018-07-25T13:02:18.095Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://theme.suka.moe/tags/Baz/</loc>
+        <lastmod>2018-07-25T13:02:18.095Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
