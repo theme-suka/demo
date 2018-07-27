@@ -2,36 +2,36 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://theme.suka.moe/tags/%E4%B8%AD%E5%9B%BD/</loc>
+        <loc>https://theme.suka.moe/demo/tags/%E4%B8%AD%E5%9B%BD/</loc>
         <lastmod>2018-07-23T18:44:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/tags/%E5%AF%82%E9%9D%99%E4%B9%8B%E5%9F%8E/</loc>
+        <loc>https://theme.suka.moe/demo/tags/%E5%AF%82%E9%9D%99%E4%B9%8B%E5%9F%8E/</loc>
         <lastmod>2018-07-23T18:44:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/tags/Foo/</loc>
-        <lastmod>2018-07-27T03:37:45.465Z</lastmod>
+        <loc>https://theme.suka.moe/demo/tags/Foo/</loc>
+        <lastmod>2018-07-27T03:48:13.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/tags/Bar/</loc>
-        <lastmod>2018-07-27T03:37:45.465Z</lastmod>
+        <loc>https://theme.suka.moe/demo/tags/Bar/</loc>
+        <lastmod>2018-07-27T03:48:13.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/tags/Baz/</loc>
-        <lastmod>2018-07-27T03:37:45.465Z</lastmod>
+        <loc>https://theme.suka.moe/demo/tags/Baz/</loc>
+        <lastmod>2018-07-27T03:48:13.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
