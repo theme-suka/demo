@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>https://theme.suka.moe/demo/2018/07/29/busuanzi-offset/</loc>
+        <lastmod>2018-07-29T17:44:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/categories/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -16,7 +24,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/25/excerpts/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +32,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/hello-world/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -32,7 +40,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/long-title/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +48,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/25/tag-plugins/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,7 +56,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/tags/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -56,7 +64,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/25/videos/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,7 +72,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -72,7 +80,7 @@
 
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</loc>
-        <lastmod>2018-07-29T09:48:33.730Z</lastmod>
+        <lastmod>2018-07-29T10:01:18.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -103,16 +111,8 @@
     </url>
 
     <url>
-        <loc>https://theme.suka.moe/demo/2013/12/25/no-title/</loc>
-        <lastmod>2018-07-23T18:44:09.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://theme.suka.moe/demo/2013/12/25/no-title-but-thumb/</loc>
-        <lastmod>2018-07-23T18:44:08.000Z</lastmod>
+        <lastmod>2015-10-25T22:57:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -121,6 +121,14 @@
     <url>
         <loc>https://theme.suka.moe/demo/2013/12/26/images/</loc>
         <lastmod>2013-12-26T22:46:49.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://theme.suka.moe/demo/2013/12/25/no-title/</loc>
+        <lastmod>2013-12-25T22:57:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
