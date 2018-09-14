@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://theme.suka.moe/demo/post-sitemap.xml</loc>
-        <lastmod>2018-09-11T03:55:06.596Z</lastmod>
+        <loc>https://theme-suka.github.io/demo/post-sitemap.xml</loc>
+        <lastmod>2018-09-14T07:42:47.940Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://theme.suka.moe/demo/page-sitemap.xml</loc>
-        <lastmod>2018-09-11T03:55:06.604Z</lastmod>
+        <loc>https://theme-suka.github.io/demo/page-sitemap.xml</loc>
+        <lastmod>2018-09-14T07:42:47.952Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://theme.suka.moe/demo/category-sitemap.xml</loc>
+        <loc>https://theme-suka.github.io/demo/category-sitemap.xml</loc>
         <lastmod>2018-07-23T18:44:10.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://theme.suka.moe/demo/tag-sitemap.xml</loc>
+        <loc>https://theme-suka.github.io/demo/tag-sitemap.xml</loc>
         <lastmod>2018-07-23T18:44:10.000Z</lastmod>
     </sitemap>
 
