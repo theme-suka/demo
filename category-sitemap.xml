@@ -15,21 +15,21 @@
 
     <url>
         <loc>https://theme-suka.github.io/demo/categories/Foo/</loc>
-        <lastmod>2018-09-20T13:20:15.064Z</lastmod>
+        <lastmod>2018-09-20T13:26:44.262Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://theme-suka.github.io/demo/categories/Foo/Bar/</loc>
-        <lastmod>2018-09-20T13:20:15.064Z</lastmod>
+        <lastmod>2018-09-20T13:26:44.262Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://theme-suka.github.io/demo/categories/Foo/Bar/Baz/</loc>
-        <lastmod>2018-09-20T13:20:15.064Z</lastmod>
+        <lastmod>2018-09-20T13:26:44.262Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
